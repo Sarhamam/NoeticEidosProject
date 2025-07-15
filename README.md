@@ -20,6 +20,7 @@ This project introduces a pullback metric approach to analyze the geometry of la
 - Formal hypothesis: semantic regions exhibit non-zero curvature; syntax is geometrically flat
 - Geometric analysis of learned spaces via local invariants
 - Connections to quantum systems and wavefunction diffusion via heat kernel
+- Fisher-Rao metric PB pushforward possiblity for trained models (Approximating Reimmanian Submersions?) 
 
 ---
 
