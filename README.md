@@ -16,19 +16,21 @@ This project introduces a pullback metric approach to analyze the geometry of la
 - Local geometric structure of semantic complexity
 - Geometric interpretability of LLMs
 
-### Our Philosophy
-We believe that any system capable of shaping language, thought, or decision-making at scale—especially superintelligent models—must operate under transparent, inspectable structures. Interpretability is not a feature; it is an ethical foundation.
-
-We do not insist on geometry as the only solution, but we recognize its natural alignment: geometric methods allow structure to be analyzed even without access to model weights or training data. This makes them a powerful candidate for building public, auditable reasoning systems.
-
-The Noetic Eidos Project stands for structural transparency, and the right to understand the logic that governs our words.
-
 ### Current Work
 - Formal hypothesis: semantic regions exhibit non-zero curvature; syntax is geometrically flat
 - Geometric analysis of learned spaces via local invariants
 - Connections to quantum systems and wavefunction diffusion via heat kernel
 - Fisher-Rao metric PB pushforward possiblity for trained models (Approximating Reimmanian Submersions?)
 - Chain of agents for analysis of topics : Define → Dissect → Reconstruct → Generalize as a problem solving pipeline
+
+---
+
+## Our Philosophy
+We believe that any system capable of shaping language, thought, or decision-making at scale—especially superintelligent models—must operate under transparent, inspectable structures. Interpretability is not a feature; it is an ethical foundation.
+
+We do not insist on geometry as the only solution, but we recognize its natural alignment: geometric methods allow structure to be analyzed even without access to model weights or training data. This makes them a powerful candidate for building public, auditable reasoning systems.
+
+The Noetic Eidos Project stands for structural transparency, and the right to understand the logic that governs our words.
 
 ---
 
