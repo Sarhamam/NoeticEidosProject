@@ -43,7 +43,7 @@ This work is licensed under a [Creative Commons Attribution–NonCommercial–Sh
 
 ## 🤝 Contributions
 This is a solo open-research project initiated by Saar Hamam at July 9th 2025.
-
+All mathematical and theoretical development, including the Submersion Hypothesis, Latent Geometry Framework, and Quantum Analogy, were developed within the first week.
 All theoretical frameworks, ideas, and writing are the intellectual work of the author. AI tools (such as ChatGPT) were used as assistants in shaping, drafting, and iterating on formalization.
 
 Feel free to explore, cite, and extend the work under the terms of the license, preferably in this project.
