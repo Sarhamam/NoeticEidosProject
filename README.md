@@ -20,7 +20,8 @@ This project introduces a pullback metric approach to analyze the geometry of la
 - Formal hypothesis: semantic regions exhibit non-zero curvature; syntax is geometrically flat
 - Geometric analysis of learned spaces via local invariants
 - Connections to quantum systems and wavefunction diffusion via heat kernel
-- Fisher-Rao metric PB pushforward possiblity for trained models (Approximating Reimmanian Submersions?) 
+- Fisher-Rao metric PB pushforward possiblity for trained models (Approximating Reimmanian Submersions?)
+- Chain of agents for analysis of topics : Define → Dissect → Reconstruct → Generalize as a problem solving pipeline
 
 ---
 
@@ -32,7 +33,7 @@ This work is licensed under a [Creative Commons Attribution–NonCommercial–Sh
 ---
 
 ## 🤝 Contributions
-This is a solo open-research project initiated by Saar Hamam.
+This is a solo open-research project initiated by Saar Hamam at July 9th 2025.
 
 All theoretical frameworks, ideas, and writing are the intellectual work of the author. AI tools (such as ChatGPT) were used as assistants in shaping, drafting, and iterating on formalization.
 
