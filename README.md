@@ -18,6 +18,7 @@ This project introduces a pullback metric approach to analyze the geometry of la
 
 ### Current Work
 - (High Priority) - Implement the proof of concept to verify the validity of the framework.
+- Model instrumental convergence from Noedic Geometry point of view.
 - Formal hypothesis: semantic regions exhibit non-zero curvature; syntax is geometrically flat
 - Geometric analysis of learned spaces via local invariants
 - Connections to quantum systems and wavefunction diffusion via heat kernel
@@ -43,8 +44,8 @@ This work is licensed under a [Creative Commons Attribution–NonCommercial–Sh
 ---
 
 ## 🤝 Contributions
-This is a solo open-research project initiated by Saar Hamam at July 9th 2025.
-All mathematical and theoretical development, including the Submersion Hypothesis, Latent Geometry Framework, and Quantum Analogy, were developed within the first week.
+This is an original solo open-research project initiated by Saar Hamam at July 9th 2025.
+All mathematical and theoretical development, including the Submersion Hypothesis, Latent Geometry Framework, and Quantum Analogy, were derived within the first week.
 All theoretical frameworks, ideas, and writing are the intellectual work of the author. AI tools (such as ChatGPT) were used as assistants in shaping, drafting, and iterating on formalization.
 
 Feel free to explore, cite, and extend the work under the terms of the license, preferably in this project.
